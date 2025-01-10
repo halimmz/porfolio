@@ -23,3 +23,8 @@ index.html: Archivo principal con la estructura de la página.
 css/styles.css: Estilos personalizados.
 assets/img/: Carpeta con imágenes usadas en el portfolio.
 js/scripts.js: Archivo JavaScript para funcionalidades adicionales.
+
+Enlace a la página publicada
+Puedes acceder a la página publicada en GitHub Pages a través del siguiente enlace:
+[Mi Portfolio](https://halimmz.github.io/porfolio/)
+
